@@ -1,0 +1,17 @@
+.div-1 {
+    background-color: #6ac4ee;
+    width: 300px;
+    height: 300px;
+    border: 2px dotted #000000;
+    margin: auto;
+    padding: 20px;
+    font-family: 'Segoe UI';
+    border-radius: 10px;
+    box-shadow: #296494 10px 10px 10px 1px;
+}
+
+/*
+outras possíveis cores:
+#32648d
+#00aeff
+*/
